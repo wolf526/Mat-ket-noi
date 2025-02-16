@@ -1,6 +1,6 @@
 # Mat-ket-noi
 # Mất kết  nối
-# nghệ sĩ Dương Domic
+# Nghệ sĩ Dương Domic
 lyrics = """Nỗi nhớ em trong đêm thật dài
 Thêm lý do cho anh tồn tại
 Để lại chạm vào bờ môi ấy dịu dàng
