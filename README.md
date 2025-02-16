@@ -1,7 +1,7 @@
 # Mat-ket-noi
 # Mất kết  nối
 # Nghệ sĩ Dương Domic
-lyrics = """<p>Nỗi nhớ em trong đêm thật dài<br>
+<p>Nỗi nhớ em trong đêm thật dài<br>
 Thêm lý do cho anh tồn tại<br>
 Để lại chạm vào bờ môi ấy dịu dàng<br>
 Lời thì thầm ngọt ngào bên tai</p>
@@ -77,8 +77,6 @@ Anh sẽ luôn ghi nhớ em<br>
 Trong từng tế bào<br>
 Vậy mà dừng lại như thế sao?</p>"""
 
-print(lyrics)
 # 1 vòng Việt Nam
 # https://wolf526.github.io/1-vong-Viet-nam/
 
-print(lyrics)
